@@ -3,13 +3,14 @@ As a part of our Embedded Linux course , we developed a software to fetch the 10
 Our system uses a Bash script to contact https://api.blockcypher.com/v1/btc/main and gets in return the main block of the BlockChain, after that it calculates the 9 previous blocks and display some information about them.
 The project was developed in Visual Code using C programming language on Ubunutu 18.04 version.
 
-During this Project we learned about C and Linux elements such as :
+During this Project we learned elements such as :
 * Developing project in Linux environment.
 * Working with Bash scripts.
 * Creating and using a MakeFile.
 * Exporting data to CSV file.
 * Creating a shared library in Linux(.so file).
 * Getting familliar with BlockChain aspects.
+* Using Sed and Grep .
 
 # Our Project:
 
